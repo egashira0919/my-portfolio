@@ -42,10 +42,10 @@ const profile: Profile = {
   name: "江頭 範子 (Noriko Egashira)",
   roles: ["フルスタックエンジニア志望", "金融×クラウド", "TypeScript / Java / PHP"],
   summary:
-    "楽天銀行での審査・モニタリング・KPI報告の実務経験を経て、フルスタック開発とクラウド（AWS/Azure）を学習中。正確性とリスク感度を活かし、FinTech領域で価値を出すエンジニアを目指しています。",
+    "楽天銀行での審査・モニタリング実務経験を経て、フルスタック開発とクラウドを学習中。正確性とリスク感度を活かし、FinTech領域で価値を出すエンジニアを目指しています。",
   about:
-    "新卒で楽天銀行に入社し、口座開設・海外送金の審査、不正取引モニタリング、KPI報告に従事。現在はフルスタック開発（React/Next.js、FastAPI、Node.js）とともに、Java(Spring)・PHP(Laravel)、AWS/Azureのモダン開発を実践。「安全で使いやすい金融体験」を実装で届けることを目標としています。",
-  email: "norikoegashira1@gmail.com",
+    "新卒で楽天銀行へ入社。口座開設・海外送金の審査責任者経験、不正取引モニタリングに従事。現在はフルスタック開発（React/Next.js、FastAPI、Node.js）とともに、Java(Spring)・PHP(Laravel)、AWS/Azureのモダン開発を実践。「安全で使いやすい金融体験」を実装で届けることを目標としています。",
+  email: "norikoegashira1@example.com",
   links: {
     github: "https://github.com/egashira0919",
     resume: "https://example.com/resume.pdf",
